@@ -1,7 +1,9 @@
 /* import fonts */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@500&display=swap');
 
-/* common styes */
+/*..............................................
+ common styes 
+ -----------------------------------------------*/
 body {
     font-family: 'Poppins', sans-serif;
     background: #F3F1FF;
@@ -28,7 +30,7 @@ hr {
 }
 
 /*-----------------------------------------------
-                          top players style                   
+                top players style                   
 ................................................*/
 .players {
     display: grid;
